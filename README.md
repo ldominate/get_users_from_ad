@@ -1,4 +1,4 @@
-# Экспорт пользователей Active Directory в Excel
+# Export Active Directory Users to Excel
 
 This script is designed to export a list of users from Active Directory to Excel.
 
